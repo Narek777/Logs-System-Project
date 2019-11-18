@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Task Done",
+      "attention": false,
+      "date": "03-04-2019",
+      "tech": "Sam Smith"
+    },
+    {
+      "id": 2,
+      "message": "Workstation 007 not posting",
+      "attention": true,
+      "date": "02-06-2019",
+      "tech": "John Doe"
+    },
+    {
+      "id": 3,
+      "message": "Changed Status of 050",
+      "attention": false,
+      "date": "11-18-2019",
+      "tech": "Narek Ohanjanyan"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 2,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 3,
+      "firstName": "Narek",
+      "lastName": "Ohanjanyan"
+    },
+    {
+      "firstName": "Black",
+      "lastName": "Smith",
+      "id": 4
+    }
+  ]
+}

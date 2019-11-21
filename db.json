@@ -1,25 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Task Done",
-      "attention": false,
-      "date": "03-04-2019",
-      "tech": "Sam Smith"
+      "message": "Test Log",
+      "attention": true,
+      "tech": "Narek Ohanjanyan",
+      "date": "2019-11-20T16:01:07.969Z",
+      "id": 1
     },
     {
       "id": 2,
-      "message": "Workstation 007 not posting",
-      "attention": true,
-      "date": "02-06-2019",
-      "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "Changed Status of 050",
+      "message": "dasdsafdsfds",
       "attention": false,
-      "date": "11-18-2019",
-      "tech": "Narek Ohanjanyan"
+      "tech": "John Doe",
+      "date": "2019-11-21T15:26:20.026Z"
     }
   ],
   "techs": [
@@ -42,6 +35,11 @@
       "firstName": "Black",
       "lastName": "Smith",
       "id": 4
+    },
+    {
+      "firstName": "Black",
+      "lastName": "Smith",
+      "id": 5
     }
   ]
 }
